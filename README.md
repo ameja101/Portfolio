@@ -16,7 +16,6 @@ A professional portfolio website showcasing my skills, projects, and contact inf
 
 - HTML5
 - CSS3
-- JavaScript
 - Formspree for form handling
 
 ## Sections
