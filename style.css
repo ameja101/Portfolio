@@ -21,6 +21,15 @@ img {
   margin-inline-end: 1em;
 }
 
+.framed-image {
+  border: 5px light #333;   
+  border-radius: 8px;           
+  padding: 4px;                 
+  background-color: white;     
+  width: 200px;                 
+}
+
+
 p + p {
   margin-top: 1em;
 }
